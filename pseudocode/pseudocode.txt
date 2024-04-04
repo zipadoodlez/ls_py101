@@ -1,0 +1,54 @@
+ a function that returns the sum of two numbers
+
+	START
+
+	GET number 1 and number 2
+	SET the sum
+	PRINT the sum
+
+a function that takes a list of strings, and returns a string that is all those strings concatenated together
+
+	START
+	GET list of strings
+	SET new variable : stringcat
+	FOR string in strings
+		stringcat += strings(string)		
+	PRINT stringcat
+
+a function that takes a list of integers, and returns a new list with every other element from the original list, starting with the first element. For instance: 
+
+	START
+	GET list of integers
+	SET new list of integers
+	SET iterator
+	WHILE iterator < len(list):
+		newlist.append(list[iterator])	
+		iterator += 2
+	PRINT newlist
+
+a function that determines the index of the 3rd occurrence of a given character in a string. For instance, if the given character is 'x' and the string is 'axbxcdxex', the function should return 6 (the index of the 3rd 'x'). If the given character does not occur at least 3 times, return None. 
+
+	START
+	GET string
+	IF sub in string
+	SET charcounter, index
+	WHILE charcounter < 3:
+		IF sub in substring[index::]
+			SET index of sub in string
+			SET charcounter++		
+		ELSE
+			PRINT less than 3 instances
+			return None
+	PRINT index
+
+a function that takes two lists of numbers and returns the result of merging the lists. The elements of the first list should become the elements at the even indexes of the returned list, while the elements of the second list should become the elements at the odd indexes. For instance:
+
+
+	START
+	GET 2 lists
+	SET index, returnedlist
+	WHILE index < len(list1)+len(list2)		
+		returnedlist.append(list1[index])
+		returnedlist.append(list2[index + 1])
+		index += 2
+	PRINT returnedlist
