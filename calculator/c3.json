@@ -1,0 +1,74 @@
+{
+	"en" : {
+		"welcome" : "Welcome to Calculator!",
+		"getfirst" : "What's the first number?",
+		"getsecond" : "What's the second number?",
+		"invalidnum" : "Hmm... that doesn't look like a valid number.",
+		"operation" : [
+			"What operation would you like to perform?",
+			"1) Add 2) Subtract 3) Multiply 4) Divide"],
+		"invalidop" : "You must choose 1, 2, 3, or 4",
+		"keepgoing" : "Would you like to make another calculation? Type y or n: ",
+		"invalidyn" : "Please type a lowercase y or n",
+		"goodbye" : "Thanks for using the calculator!"
+	},
+	"es" : {
+		"welcome" : "¡Bienvenido a la Calculadora!",
+		"getfirst" : "¿Cuál es el primer número?",
+		"getsecond" : "¿Cuál es el segundo número?",
+		"invalidnum" : "Hmm... ese no parece un número válido.",
+		"operation" : [
+			"¿Qué operación te gustaría realizar?",
+			"1) Sumar 2) Restar 3) Multiplicar 4) Dividir"],
+		"invalidop": "Debes elegir 1, 2, 3 o 4",
+		"keepgoing": "¿Le gustaría hacer otro cálculo? Escriba y o n: ",
+		"invalidyn": "Por favor escriba una y o una n minúscula",
+		"goodbye" : "¡Gracias por usar la calculadora!"
+	},
+	"fr" : {
+		"welcome" : "Bienvenue sur la Calculatrice !",
+		"getfirst" : "Quel est le premier numéro ?",
+		"getsecond" : "Quel est le deuxième numéro ?",
+		"invalidnum" : "Hmm... ça ne ressemble pas à un numéro valide.",
+		"operation" : [
+			"Quelle opération souhaitez-vous effectuer ?",
+			"1) Ajouter 2) Soustraire 3) Multiplier 4) Diviser"
+		],
+		"invalidop" : "Vous devez choisir 1, 2, 3 ou 4",
+		"keepgoing" : "Voulez-vous faire un autre calcul ? Tapez y ou n : ",
+		"invalidyn" : "Veuillez saisir un y ou un n minuscule",
+		"goodbye" : "Merci d'avoir utilisé la calculatrice !"
+	},
+	"cn" : {
+		"welcome" : "欢迎使用计算器！",
+		"getfirst" : "第一个数字是多少？",
+		"getsecond" : "第二个数字是多少？",
+		"invalidnum" : "嗯...这看起来不像一个有效的数字。",
+		"operation" : [
+			"您想进行什么手术？",
+			"1）加2）减3）乘4）除"
+		],
+		"invalidop" : "您必须选择 1、2、3 或 4",
+		"keepgoing" : "您想再进行一次计算吗？输入 y 或 n: ",
+		"invalidyn" : "请输入小写 y 或 n",
+		"goodbye" : "感谢您使用计算器！"
+		},
+	"ar" : {
+		"welcome" : "مرحبًا بك في الحاسبة",
+		"getfirst" : "ما هو الرقم الأول؟",
+		"getsecond" : "ما هو الرقم الثاني؟",
+		"invalidnum" : "حسنًا... هذا لا يبدو رقمًا صالحًا.",
+		"operation" : [
+			"ما هي العملية التي ترغب في تنفيذها؟",
+			"1) أضف 2) اطرح 3) اضرب 4) قسمة"
+		],
+		"invalidop" : "يجب عليك اختيار 1، 2، 3، أو 4",
+		"keepgoing" : "هل ترغب في إجراء عملية حسابية أخرى؟ اكتب y أو n: ",
+		"invalidyn" : "الرجاء كتابة حرف y أو n صغير",
+		"goodbye" : "شكرا لاستخدامك الآلة الحاسبة"
+		}
+}
+
+
+
+
